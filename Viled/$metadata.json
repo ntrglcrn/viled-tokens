@@ -1,0 +1,8 @@
+{
+  "tokenSetOrder": [
+    "Global",
+    "Core",
+    "Primitive",
+    "Semantic"
+  ]
+}

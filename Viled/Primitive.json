@@ -1,0 +1,158 @@
+{
+  "Green 5": {
+    "$type": "color",
+    "$value": "#17bd54"
+  },
+  "Red 5": {
+    "$type": "color",
+    "$value": "#c21c30"
+  },
+  "Yellow 5": {
+    "$type": "color",
+    "$value": "#d19420"
+  },
+  "Neutral": {
+    "$type": "color",
+    "$value": "#ffffff80"
+  },
+  "Black": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "White": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Green 9": {
+    "$type": "color",
+    "$value": "#031208"
+  },
+  "Green 8": {
+    "$type": "color",
+    "$value": "#093e1d"
+  },
+  "Green 7": {
+    "$type": "color",
+    "$value": "#0f6b31"
+  },
+  "Green 6": {
+    "$type": "color",
+    "$value": "#169845"
+  },
+  "Green 4": {
+    "$type": "color",
+    "$value": "#32e172"
+  },
+  "Green 3": {
+    "$type": "color",
+    "$value": "#5fe891"
+  },
+  "Green 2": {
+    "$type": "color",
+    "$value": "#8beeaf"
+  },
+  "Green 1": {
+    "$type": "color",
+    "$value": "#c5f7d7"
+  },
+  "Red 9": {
+    "$type": "color",
+    "$value": "#120304"
+  },
+  "Red 8": {
+    "$type": "color",
+    "$value": "#3e090f"
+  },
+  "Red 7": {
+    "$type": "color",
+    "$value": "#6b0f1a"
+  },
+  "Red 6": {
+    "$type": "color",
+    "$value": "#981625"
+  },
+  "Red 4": {
+    "$type": "color",
+    "$value": "#e13247"
+  },
+  "Red 3": {
+    "$type": "color",
+    "$value": "#e85f6f"
+  },
+  "Red 2": {
+    "$type": "color",
+    "$value": "#ee8b97"
+  },
+  "Red 1": {
+    "$type": "color",
+    "$value": "#f7c5cb"
+  },
+  "Yellow 9": {
+    "$type": "color",
+    "$value": "#1f1605"
+  },
+  "Yellow 8": {
+    "$type": "color",
+    "$value": "#4b350c"
+  },
+  "Yellow 7": {
+    "$type": "color",
+    "$value": "#775512"
+  },
+  "Yellow 6": {
+    "$type": "color",
+    "$value": "#a47419"
+  },
+  "Yellow 4": {
+    "$type": "color",
+    "$value": "#e2aa41"
+  },
+  "Yellow 3": {
+    "$type": "color",
+    "$value": "#e9be6d"
+  },
+  "Yellow 2": {
+    "$type": "color",
+    "$value": "#efd299"
+  },
+  "Yellow 1": {
+    "$type": "color",
+    "$value": "#fefaf2"
+  },
+  "Neutral 9": {
+    "$type": "color",
+    "$value": "#1a1a1a"
+  },
+  "Neutral 8": {
+    "$type": "color",
+    "$value": "#333333"
+  },
+  "Neutral 7": {
+    "$type": "color",
+    "$value": "#4d4d4d"
+  },
+  "Neutral 6": {
+    "$type": "color",
+    "$value": "#666666"
+  },
+  "Neutral 5": {
+    "$type": "color",
+    "$value": "#999999"
+  },
+  "Neutral 4": {
+    "$type": "color",
+    "$value": "#b3b3b3"
+  },
+  "Neutral 3": {
+    "$type": "color",
+    "$value": "#cccccc"
+  },
+  "Neutral 2": {
+    "$type": "color",
+    "$value": "#e6e6e6"
+  },
+  "Neutral 1": {
+    "$type": "color",
+    "$value": "#f2f2f2"
+  }
+}

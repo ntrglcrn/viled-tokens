@@ -1,0 +1,32 @@
+{
+  "fontFamilies": {
+    "ibm-plex-sans": {
+      "$type": "fontFamilies",
+      "$value": "IBM Plex Sans"
+    }
+  },
+  "fontWeights": {
+    "ibm-plex-sans-0": {
+      "$type": "fontWeights",
+      "$value": "Bold"
+    },
+    "ibm-plex-sans-1": {
+      "$type": "fontWeights",
+      "$value": "Regular"
+    },
+    "ibm-plex-sans-2": {
+      "$type": "fontWeights",
+      "$value": "SemiBold"
+    },
+    "ibm-plex-sans-3": {
+      "$type": "fontWeights",
+      "$value": "Medium"
+    }
+  },
+  "fontSize": {
+    "18": {
+      "$type": "fontSizes",
+      "$value": 61
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Error": {
+    "$type": "color",
+    "$value": "{Red 7}"
+  },
+  "Accent": {
+    "$type": "color",
+    "$value": "{Yellow 5}"
+  },
+  "Surface": {
+    "$type": "color",
+    "$value": "{White}"
+  },
+  "Heading": {
+    "$type": "color",
+    "$value": "{Black}"
+  },
+  "Description": {
+    "$type": "color",
+    "$value": "{Neutral 7}"
+  },
+  "Discount": {
+    "$type": "color",
+    "$value": "{Red 5}"
+  }
+}
